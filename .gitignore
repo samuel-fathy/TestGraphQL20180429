@@ -2,3 +2,4 @@ TestGraphQL/packages
 TestGraphQL/TestGraphQL/bin
 TestGraphQL/TestGraphQL/obj
 TestGraphQL/TestGraphQL.suo
+test/ignore
